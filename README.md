@@ -21,3 +21,7 @@ Thank you.
 
 #we  have created a branch called Git-features 
 
+# Results Interpretation 
+if BMI > 25 overweight 
+if BMI <18 underweight 
+if BMI is between 18 - 25 normal
